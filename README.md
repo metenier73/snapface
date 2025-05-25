@@ -1,27 +1,49 @@
-# Snapface
+📸 Snapface
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
+[![Angular CLI](https://img.shields.io/badge/Angular_CLI-16.2.7-red.svg?logo=angular)](https://angular.io/)
+[![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-## Development server
+Snapface est une application Angular pour partager, afficher et liker des *snaps* (posts photos) à la manière d'un réseau social. Ce projet a été généré avec [Angular CLI](https://github.com/angular/angular-cli).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## ✨ Fonctionnalités
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- 🔍 Affichage dynamique des snaps (posts photo)
+- 👍 Fonction "J’aime" / "Je n’aime plus"
+- 🧩 Architecture modulaire avec Angular
+- 🧪 Tests unitaires intégrés
+- ⚡ Rechargement à chaud pour un développement rapide
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🖼️ Screenshots
 
-## Running unit tests
+> Remplace les liens d’image ci-dessous par des captures d'écran de ton app.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+| Accueil 📱 | Détail d’un snap 🔍 |
+|-----------|--------------------|
+| ![Accueil](screenshots/home.png) | ![Détail](screenshots/detail.png) |
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 📚 Sommaire
 
-## Further help
+- [🚀 Démarrage rapide](#-démarrage-rapide)
+- [🛠️ Scripts utiles](#️-scripts-utiles)
+- [📸 Fonctionnalités](#-fonctionnalités)
+- [🖼️ Screenshots](#-screenshots)
+- [📦 Dépendances](#-dépendances)
+- [❓ Aide supplémentaire](#-aide-supplémentaire)
+- [⚖️ Licence](#️-licence)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+## 🚀 Démarrage rapide
+
+```bash
+git clone https://github.com/ton-utilisateur/snapface.git
+cd snapface
+npm install
+ng serve
