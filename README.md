@@ -168,7 +168,7 @@ Voici un exemple de licence MIT, que tu peux placer dans un fichier LICENSE à l
 
 ⚖️ MIT License
 
-Copyright (c) 2025 [Ton Nom]
+Copyright (c) 2025 METENIER Myriam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
